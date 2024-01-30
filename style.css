@@ -1,0 +1,21 @@
+.main{
+   background-color: blueviolet;
+   width: 500px;
+   height: 500px;
+}
+.childone{
+   background-color: black;
+   width: 100px;
+   height: 100px;
+  position: absolute;
+  bottom: 0px;
+
+}
+.childtwo{
+   background-color: chartreuse;
+   width: 100px;
+   height: 100px;
+  position: absolute;
+  left: 0px;
+ top: 100px;
+}
