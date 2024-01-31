@@ -1,5 +1,14 @@
-img{
+.main{
+   padding-top: 70px;
+   padding-left: 30px;
+   border: 10px solid black;
+}
+ img{
    float: right;
+   height: 400px;
    width: 400px;
-   height: 500px;
+   z-index: -2;
+}
+p{
+   width: 600px;
 }
