@@ -6,16 +6,19 @@
 .childone{
    background-color: black;
    width: 100px;
-   height: 100px;
+   height: 10px;
   position: absolute;
-  bottom: 0px;
+  rotate: 90deg;
+  top: 100px;
+  left: 50px;
+  
 
 }
 .childtwo{
    background-color: chartreuse;
    width: 100px;
-   height: 100px;
+   height: 10px;
   position: absolute;
-  left: 0px;
- top: 100px;
+  top: 100px;
+  left: 50px;
 }
