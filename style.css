@@ -1,24 +1,5 @@
-.main{
-   background-color: blueviolet;
-   width: 500px;
-   height: 500px;
-}
-.childone{
-   background-color: black;
+img{
+   float: left;
    width: 100px;
-   height: 10px;
-  position: absolute;
-  rotate: 90deg;
-  top: 100px;
-  left: 50px;
-  
-
-}
-.childtwo{
-   background-color: chartreuse;
-   width: 100px;
-   height: 10px;
-  position: absolute;
-  top: 100px;
-  left: 50px;
+   height: 100px;
 }
